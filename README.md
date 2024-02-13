@@ -1,4 +1,4 @@
-# HooBank React.js Demo
+# HooBank
 
 Web application to demonstrate React.js and Tailwind CSS framework.
 
