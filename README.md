@@ -2,7 +2,7 @@
 
 Web application to demonstrate React.js and Tailwind CSS framework.
 
-Deployed Site: https://connorxcx.github.io/HooBank/
+Deployed Site: [ConnorXCX.github.io/HooBank](https://ConnorXCX.github.io/HooBank/)
 
 Commands to Run Locally:
 
